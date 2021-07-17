@@ -290,3 +290,4 @@ $RECYCLE.BIN/
 ## ignore file
 ## commit colab
 For_github_commit.ipynb
+*.csv
