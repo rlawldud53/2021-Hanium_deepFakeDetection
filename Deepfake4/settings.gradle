@@ -1,0 +1,2 @@
+rootProject.name = "Deepfake4"
+include ':app'
