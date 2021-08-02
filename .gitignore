@@ -292,7 +292,7 @@ $RECYCLE.BIN/
 For_github_commit.ipynb
 *.csv
 *.whl
-*.pth
+#*.pth
 
 ### Java ###
 # Compiled class file
